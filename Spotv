@@ -1,1 +1,4 @@
-http://aflaxtv.xyz:8080/live/F33848/cbd9779b/165105.ts
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1965328.m3u8
